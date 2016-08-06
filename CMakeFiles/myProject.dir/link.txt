@@ -1,0 +1,1 @@
+/usr/bin/clang++    -std=c++11 -g   CMakeFiles/myProject.dir/test.cpp.o  -o myProject -rdynamic 
