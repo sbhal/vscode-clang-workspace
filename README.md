@@ -5,6 +5,7 @@
     * cpptools
 * Build and compile binary - F7 or Press Build button on statusbar
 * Debug/Run - F5
+* CMakeLists.txt  ----cmake---> Makefile ----make---> executable
 
 # clang-workspace
 cmd | shortcut

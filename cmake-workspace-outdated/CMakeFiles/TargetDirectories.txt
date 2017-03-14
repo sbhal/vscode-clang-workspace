@@ -1,3 +1,0 @@
-/home/sbhal/Documents/cppCode/CMakeFiles/edit_cache.dir
-/home/sbhal/Documents/cppCode/CMakeFiles/rebuild_cache.dir
-/home/sbhal/Documents/cppCode/CMakeFiles/myProject.dir
